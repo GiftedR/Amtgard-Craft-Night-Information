@@ -40,3 +40,16 @@
 |	06/12/25	|	Normal Night	|	Orava Dragneil	|
 |	06/19/25	|	Normal Night	|	Orava Dragneil	|
 |	06/26/25	|	Normal Night	|	Orava Dragneil	|
+
+<style>
+h3{
+	text-align: center;
+	font-weight: 900;
+}
+table {
+	width: 100vw;
+}
+tr:nth-child(even){
+	background-color: #ffffff11;
+}
+</style>
